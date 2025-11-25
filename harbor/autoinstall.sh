@@ -10,7 +10,7 @@
 pwddir=$(pwd)
 username=$(whoami)
 groupname=$username
-hostname1=reg.hub.dongguofeng.cn
+hostname1=reg.hub
 # version
 Version_id='2.11.1'
 # value   [online | offline]
